@@ -1,0 +1,2 @@
+# Galaxies-Unbound-A-Stellar-Odyssey
+Galaxies Unbound: A Stellar Odyssey, is the successor of Galaxies Unbound: Nova Kirbani. This time expanding the kerbal universe with 50+ new worlds for you to discover. In addition GU also optionally adds the solar stellar neighbourhood accurately up to 10-15 lighyears (1/10th real distance ingame). Beyond this distance only notible and famous stars exist up to 50 lighyears.
