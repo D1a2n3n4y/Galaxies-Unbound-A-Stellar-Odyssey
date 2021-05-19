@@ -2,11 +2,9 @@
 Download & Installation 
 Min RAM to run this mod: (4-)8Gb (!!don't report lag issues if you have less or old pc specs!!)
 
-LATEST STABLE VERSION OF GU: GITHUB - SPACEDOCK (!!never install an update over previous version!!)
+LATEST STABLE VERSION OF GU: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.0.2-3) - [SPACEDOCK](https://spacedock.info/mod/2620/Galaxies%20Unbound:%20A%20Stellar%20Odyssey) (!!never install an update over previous version!!)
 
-LATEST STABLE VERSION OF GU - HomeSwitch: GITHUB
-
-! NEWEST TESTVERSION 1.1: GITHUB
+! NEWEST TESTVERSION 1.1: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.1)
 
 
 
@@ -52,4 +50,6 @@ LATEST STABLE VERSION OF GU - HomeSwitch: GITHUB
 
 --- Great tutorials by @ballisticfox0 
 
-https://www.youtube.com/watch?v=AaoWYI6htVA&feature=emb_logo&ab_channel=ballisticfox
+[CLIP1](https://www.youtube.com/watch?v=AaoWYI6htVA&feature=emb_logo&ab_channel=ballisticfox)
+
+[CLIP2](https://www.youtube.com/watch?v=urRuHV2CctE&feature=emb_title&ab_channel=ballisticfox)
