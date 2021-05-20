@@ -9,7 +9,7 @@ LATEST STABLE VERSION OF GU: [GITHUB](https://github.com/StarCrusher96/Galaxies
 
 
 
-**How to install Galaxies Unbound: A Stellar Odyssey**
+# How to install Galaxies Unbound: A Stellar Odyssey
 
 1. Start with a clean 1.10 or 1.11 KSP version. (avoid adding GU on top of a heavily modded game - no support)
 2. Download Kopernicus.
@@ -48,7 +48,7 @@ LATEST STABLE VERSION OF GU: [GITHUB](https://github.com/StarCrusher96/Galaxies
 --- After you followed these steps and the game loaded without errors, you should be able to add more mods.
 --- This should be all to get GU working! ENJOY!
 
---- Great tutorials by @ballisticfox0 
+# Great tutorials by @ballisticfox0 
 
 [CLIP1](https://www.youtube.com/watch?v=AaoWYI6htVA&feature=emb_logo&ab_channel=ballisticfox)
 
