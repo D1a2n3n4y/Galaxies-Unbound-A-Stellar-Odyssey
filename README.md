@@ -22,7 +22,7 @@ PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-
 
 ^GU folder looks like this.
 
-# Before launching the game. (!important!)
+# BEFORE launching the game. (!important!)
 1. Go to the GU folder and find the GU-GENERAL_Settings.cfg
 -> Here you will decide which part of the mod will be loaded. By changing from True to False you decide how big the mod will get. 
 -> All planet-systems have been enabled by default.
@@ -51,7 +51,7 @@ PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-
 
 
 
-# After launching the game. (!important!)
+# AFTER launching the game. (!important!)
 
 1. You need Texture quality at its highest setting. Otherwise a few worlds will spawn as black orbs. 
 
