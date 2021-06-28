@@ -37,7 +37,7 @@ PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-
 
 1. We'll be using Alpha Centauri as an example. Go to the GU-GENERAL_Settings.cfg in the GU-folder and enable Alpha Centauri.
 
-![screenshot32](https://user-images.githubusercontent.com/17100011/123639079-24082a00-d820-11eb-976f-32658171b88c.png)
+![screenshot32](https://cdn.discordapp.com/attachments/543910002138808330/859055860600274947/unknown.png)
 
 2. Go to this part of the cfg.
 
