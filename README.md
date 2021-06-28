@@ -2,9 +2,9 @@
 Download & Installation 
 Min RAM to run this mod: (4-)8Gb (!!don't report lag issues if you have less or old pc specs!!)
 
-LATEST STABLE VERSION OF GU: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.0.2-3) - [SPACEDOCK](https://spacedock.info/mod/2620/Galaxies%20Unbound:%20A%20Stellar%20Odyssey) (!!never install an update over previous version!!)
+PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.0.2-3) - [SPACEDOCK](https://spacedock.info/mod/2620/Galaxies%20Unbound:%20A%20Stellar%20Odyssey) (!!never install an update over previous version!!)
 
-! NEWEST TESTVERSION 1.1: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.1)
+! LATEST STABLE VERSION OF GU 1.1: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/tag/1.1)
 
 
 
@@ -18,26 +18,40 @@ LATEST STABLE VERSION OF GU: [GITHUB](https://github.com/StarCrusher96/Galaxies
 --- Using Visuals. (!important!)
 5. Download Eve-Redux/Eve and/-or Scatterer for visuals.
 
-![screenshot29](![image](https://cdn.discordapp.com/attachments/543910002138808330/859051017067823104/unknown.png))
+![screenshot29](https://cdn.discordapp.com/attachments/543910002138808330/859051017067823104/unknown.png)
 
 ^GU folder looks like this.
 
---- Before launching the game. (!important!)
+# Before launching the game. (!important!)
 1. Go to the GU folder and find the GU-GENERAL_Settings.cfg
 -> Here you will decide which part of the mod will be loaded. By changing from True to False you decide how big the mod will get. 
 -> All planet-systems have been enabled by default.
 
-![screenshot30](https://cdn.discordapp.com/attachments/527312263854424067/790612680716189746/unknown.png)
+![screenshot30](https://cdn.discordapp.com/attachments/543910002138808330/859051500306956288/unknown.png)
 
-* keep in mind planets only can orbit their stars. 
+2. When using visual mods, no need to worry! GU is now able to enable visuals on its own. Just install Eve-Redux/Eve and/-or Scatterer and you're good to go.
 
-2. When using **EVE** (clouds). You will need to go to GU_Clouds and compress/decompress the systems you picked or not. If you don't do this correctly, clouds will not show up. Alpha Centauri, Epsilon Eridani, Sirius, Tau Ceti and Trappist-1 are decompressed by default. For some planets you'll have to look in _Extra. I'm looking for a solution in the future as this part of the installationprocess is pretty annoying.
+3. When using **INSTANTIATOR**. Download the mod via its forumpage or SpaceDock (it still works) and remove the exampleconfig.cfg from inside the folder. Once Kopernicus Particles work properly again, the beams will be replaced by particles instead of textures.
 
-3. When using **Scatterer** (atm_shaders). You will need to go to GU_Scatterer and decompress the systems you picked. If you don't do this correcty clouds will not show up. Alpha Centauri, Epsilon Eridani, Sirius, Tau Ceti and Trappist-1 are decompressed by default. For some planets you'll have to look in _Extra. I'm looking for a solution in the future as this part of the installationprocess is ALSO pretty annoying.
+# How to use the HOMESWITCH mode.
 
-4. When using **INSTANTIATOR**. Download the mod via its forumpage (it still works) and remove the exampleconfig.cfg from inside the folder. Once Kopernicus Particles work properly again, the beams will be replaced by particles instead of textures.
+1. We'll be using Alpha Centauri as an example. Go to the GU-GENERAL_Settings.cfg in the GU-folder and enable Alpha Centauri.
 
---- After launching the game. (!important!)
+![screenshot32](https://user-images.githubusercontent.com/17100011/123639079-24082a00-d820-11eb-976f-32658171b88c.png)
+
+2. Go to this part of the cfg.
+
+![screenshot33](https://cdn.discordapp.com/attachments/543910002138808330/859053530526122024/unknown.png)
+
+3. Change HomeSwitch = x to HomeSwitch = AC
+
+![screenshot34](https://cdn.discordapp.com/attachments/543910002138808330/859053941999665232/unknown.png)
+
+4. DONE! Now you'll start in your new homesystem! Don't forget to run KSP twice (2x) in order for visuals to work properly. 
+
+
+
+# After launching the game. (!important!)
 
 1. You need Texture quality at its highest setting. Otherwise a few worlds will spawn as black orbs. 
 
@@ -47,8 +61,4 @@ LATEST STABLE VERSION OF GU: [GITHUB](https://github.com/StarCrusher96/Galaxies
 --- After you followed these steps and the game loaded without errors, you should be able to add more mods.
 --- This should be all to get GU working! ENJOY!
 
-# Great tutorials by @ballisticfox0 
 
-[CLIP1](https://www.youtube.com/watch?v=AaoWYI6htVA&feature=emb_logo&ab_channel=ballisticfox)
-
-[CLIP2](https://www.youtube.com/watch?v=urRuHV2CctE&feature=emb_title&ab_channel=ballisticfox)
