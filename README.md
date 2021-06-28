@@ -11,15 +11,14 @@ LATEST STABLE VERSION OF GU: [GITHUB](https://github.com/StarCrusher96/Galaxies
 
 # How to install Galaxies Unbound: A Stellar Odyssey
 
-1. Start with a clean 1.10 or 1.11 KSP version. (avoid adding GU on top of a heavily modded game - no support)
+1. Start with a clean 1.11 KSP version. (avoid adding GU on top of a heavily modded game - no support)
 2. Download Kopernicus.
 3. Download Galaxies Unbound: A Stellar Odyssey via the link(s) posted above.
 4. Drop the GU-folder in your GameData-folder.
 --- Using Visuals. (!important!)
 5. Download Eve-Redux/Eve and/-or Scatterer for visuals.
-6. Download GU_Visuals_EVE and/-or GU_Visuals_Scatterer via the Github link of Galaxies Unbound: A Stellar Odyssey. And drop their respective GU-folders in GameData as well. At this point there should still be only 1 GU folder in your GameData.
 
-![screenshot29](https://cdn.discordapp.com/attachments/527312263854424067/791408688216408074/unknown.png)
+![screenshot29](![image](https://cdn.discordapp.com/attachments/543910002138808330/859051017067823104/unknown.png))
 
 ^GU folder looks like this.
 
