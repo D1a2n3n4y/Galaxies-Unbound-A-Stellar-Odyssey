@@ -16,7 +16,7 @@ PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-
 3. Download Galaxies Unbound: A Stellar Odyssey via the link(s) posted above.
 4. Drop the GU-folder in your GameData-folder.
 --- Using Visuals. (!important!)
-5. Download Eve-Redux/Eve and/-or Scatterer for visuals.
+5. Download [Eve-Redux/Eve](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/) and/-or [Scatterer](https://github.com/LGhassen/Scatterer/releases) for visuals.
 
 ![screenshot29](https://cdn.discordapp.com/attachments/543910002138808330/859051017067823104/unknown.png)
 
