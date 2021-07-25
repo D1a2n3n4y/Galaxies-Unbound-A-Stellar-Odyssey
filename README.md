@@ -14,7 +14,7 @@ PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-
 1. Start with a clean 1.11 or 1.12 KSP version. (avoid adding GU on top of a heavily modded game - no support)
 2. Download [Kopernicus](https://github.com/kopernicus/kopernicus/releases). Make sure your KSP version matches.
 3. Download Galaxies Unbound: A Stellar Odyssey via the link(s) posted above. You always need _Core!
-4. Drop the GU-folder in your GameData-folder.
+4. Drop the 'GU'-folder(s) in your GameData-folder.
 --- Using Visuals. (!important!)
 5. Download [Eve-Redux/Eve](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/) and/-or [Scatterer](https://github.com/LGhassen/Scatterer/releases) for visuals.
 
