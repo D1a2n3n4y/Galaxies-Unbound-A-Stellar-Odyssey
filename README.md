@@ -11,6 +11,8 @@ PREVIOUS VERSION: [GITHUB](https://github.com/StarCrusher96/Galaxies-Unbound-A-
 
 # How to install Galaxies Unbound: A Stellar Odyssey
 
+-> [InstallationClip by ballisticfox](https://www.youtube.com/watch?v=MVVuQ8FKGew&ab_channel=ballisticfox)
+
 1. Start with a clean 1.11 or 1.12 KSP version. (avoid adding GU on top of a heavily modded game - no support)
 2. Download [Kopernicus](https://github.com/kopernicus/kopernicus/releases). Make sure your KSP version matches.
 3. Download Galaxies Unbound: A Stellar Odyssey via the link(s) posted above. You always need _Core as the basic structure. You'll have to download other _systems or expansions on top.
